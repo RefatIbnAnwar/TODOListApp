@@ -2,7 +2,7 @@
 A TODO LIst App , Developed in Swift 
 a XCode project with the following specifications:
 • Supports iOS 10
-• Written in Swi 
+• Written in Swift 3.1 
 • Uses auto-layout
 
 
